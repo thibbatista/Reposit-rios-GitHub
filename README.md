@@ -102,6 +102,8 @@ No Android Studio, com o botão direito sobre o projeto, vá em Build → Build 
 * ViewModel
 * Koin
 * Glide
+* API GitHub
+
 
 ## Licença
 
