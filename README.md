@@ -73,7 +73,7 @@ No Android Studio, clique em Run → Run 'app'
 Use o menu de opções no canto superior esquerdo para navegação:
 
 ```
-Na tela inicial clique pesquisar -> digite o nome do repositório -> clique na lupa
+Na tela inicial toque pesquisar -> digite o nome do repositório -> toque na lupa
 Uma lista de repositórios será exibida
 ```
 
